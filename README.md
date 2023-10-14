@@ -1,1 +1,0 @@
-# neurocomputing_application
